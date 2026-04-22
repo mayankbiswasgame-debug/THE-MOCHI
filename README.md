@@ -1,6 +1,6 @@
 # ESP32 Smart Desk Bot
 
-![Desk Bot](desk bot.jpeg)
+![Desk Bot](deskbot.jpeg)
 
 ## Overview
 
@@ -61,12 +61,6 @@ The touch sensor allows the user to switch between different screens and face an
 | VCC       | 3.3V      |
 | GND       | GND       |
 | OUT       | GPIO 4    |
-
----
-
-## Project Image
-
-![Desk Bot](file_00000000bd9471fab9ec1ac8cec3dd3c)
 
 ---
 
