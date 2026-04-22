@@ -1,6 +1,6 @@
 # ESP32 Smart Desk Bot
 
-![Desk Bot](file_00000000bd9471fab9ec1ac8cec3dd3c)
+![Desk Bot](desk bot.jpeg)
 
 ## Overview
 
